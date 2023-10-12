@@ -4,3 +4,6 @@
 
 # wget_sftp.sh
 使用wget获取sftp文件服务器中的指定文件。
+
+# expdp_oracle.sh
+使用oracle数据泵自动备份oracle数据库，且自动删除5天前备份的数据。
