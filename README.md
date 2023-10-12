@@ -3,4 +3,4 @@
 
 
 # wget_sftp.sh
-
+使用wget获取sftp文件服务器中的指定文件。
