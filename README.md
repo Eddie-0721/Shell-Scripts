@@ -19,5 +19,11 @@ mysql备份数据库
 # backups.sh 20231103
 备份文件或目录脚本
 
-# check_system_status_vlan30.sh
+# check_system_status_vlan30.sh 20231103
 检测指定网段(同一个局域网内)机器是否存活
+
+# send_nc.sh 20231103
+通过nc发送文件
+
+# receive_nc.sh 20231103
+通过nc接收文件
