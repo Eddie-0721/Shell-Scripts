@@ -1,0 +1,6 @@
+10 09 * * 1-5 /root/ifconfig/ifconfig_loops.sh
+35 09 * * 1-5 /root/ifconfig/kill_ifconfig.sh
+50 12 * * 1-5 /root/ifconfig/ifconfig_loops.sh
+20 13 * * 1-5 /root/ifconfig/kill_ifconfig.sh
+40 14 * * 1-5 /root/ifconfig/ifconfig_loops.sh
+15 15 * * 1-5 /root/ifconfig/kill_ifconfig.sh

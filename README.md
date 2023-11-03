@@ -27,3 +27,6 @@ mysql备份数据库
 
 # receive_nc.sh 20231103
 通过nc接收文件
+
+# ifconfig_tools 20231103
+循环执行ifconfig保存记录ifconfig中体现的数据
