@@ -30,3 +30,6 @@ mysql备份数据库
 
 # ifconfig_tools 20231103
 循环执行ifconfig保存记录ifconfig中体现的数据
+
+# system_init.sh 20231103
+初始化centos7系统服务器
